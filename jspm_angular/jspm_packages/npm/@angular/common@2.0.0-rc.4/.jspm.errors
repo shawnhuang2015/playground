@@ -1,0 +1,1256 @@
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/common_directives.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/common_directives.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/common_directives.js:8:33: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/common_directives.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/common_directives.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/common_directives.js:9:33: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/common_directives.js:55:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/common_directives.js:55:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:13:33: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:14:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:15:23: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:16:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:16:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:17:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:17:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:17:40: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:18:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:18:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:18:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:19:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:19:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:19:57: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:20:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:20:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives.js:20:34: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:8:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:9:23: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:10:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:11:40: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:12:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:13:57: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:14:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:57:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/core_directives.js:57:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:8:83: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:9:54: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:10:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_class.js:11:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_if.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_if.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_if.js:8:58: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_if.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_if.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_if.js:9:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_if.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_if.js:10:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:8:94: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:9:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:10:61: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:22:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_for.js:22:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:8:93: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:9:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:10:51: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:11:28: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:28:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_plural.js:28:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_style.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_style.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_style.js:8:66: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_style.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_style.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_style.js:9:36: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_style.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_style.js:10:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:8:64: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:9:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:10:52: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:22:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:22:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:108:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:108:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:139:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_switch.js:139:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_template_outlet.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_template_outlet.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_template_outlet.js:8:52: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_template_outlet.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_template_outlet.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_template_outlet.js:9:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_template_outlet.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/directives/ng_template_outlet.js:10:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:8:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:9:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:10:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:11:30: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:12:28: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:13:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:14:50: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:25:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:25:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:97:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/async.js:97:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/base_wrapped_exception.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/base_wrapped_exception.js:13:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:8:84: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:9:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:81:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:81:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:104:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:104:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:169:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:169:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:291:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:291:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:298:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:298:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:312:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:312:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:345:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/collection.js:345:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:8:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:9:36: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:10:36: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:43:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exception_handler.js:43:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:8:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:9:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:10:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:26:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:26:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:43:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:43:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:46:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/exceptions.js:46:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/intl.js:8:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/intl.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/intl.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/intl.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/intl.js:174:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/intl.js:174:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:21:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:21:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:24:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:24:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:28:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:28:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:28:18: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:28:21: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:37:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:37:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:38:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:38:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:44:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:44:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:45:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:45:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:52:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:52:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:55:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:55:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:58:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:58:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:61:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:61:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:64:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:64:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:67:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:67:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:70:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:70:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:73:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:73:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:77:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:77:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:80:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:80:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:83:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:83:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:86:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:86:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:89:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:89:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:90:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:90:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:109:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:109:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:112:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:112:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:115:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:115:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:118:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:118:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:177:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:177:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:184:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:184:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:191:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:191:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:227:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:227:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:228:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:228:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:265:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:265:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:270:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:270:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:275:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:275:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:280:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:280:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:283:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:283:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:286:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:286:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:289:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:289:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:292:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:292:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:295:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:295:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:299:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:299:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:306:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:306:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:316:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:316:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:334:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:334:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:353:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:353:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:363:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:363:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:366:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:366:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:369:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:369:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:372:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/lang.js:372:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/promise.js:8:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/promise.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/promise.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/facade/promise.js:16:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:8:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:9:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:10:51: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:11:42: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:12:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:13:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:14:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:15:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:16:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:16:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:17:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:17:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:17:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:18:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:18:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:18:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:19:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:19:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:19:33: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:20:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:20:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:20:24: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:21:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:21:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:21:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:22:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:22:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:22:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:23:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:23:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:23:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:24:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:24:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:24:60: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:25:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:25:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:25:93: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:26:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:26:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:26:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:27:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:27:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:27:70: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:28:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:28:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:28:64: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:40:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated.js:40:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:8:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:9:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:10:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:11:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:12:33: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:13:24: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:14:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:15:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:15:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:16:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:16:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:16:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:17:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:17:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:17:37: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:18:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:18:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:18:43: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:19:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:19:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:19:60: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:20:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:20:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:20:76: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:21:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:21:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:21:93: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:22:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:22:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:22:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:23:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:23:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:23:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:24:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:24:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:24:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:25:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:25:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:25:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:26:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:26:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:26:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:27:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:27:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:27:33: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:28:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:28:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:28:24: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:29:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:29:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:29:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:30:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:30:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:30:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:31:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:31:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:31:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:32:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:32:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:32:37: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:33:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:33:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:33:61: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:34:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:34:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:34:60: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:35:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:35:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:35:76: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:36:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:36:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:36:93: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:54:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives.js:54:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/abstract_control_directive.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/abstract_control_directive.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/abstract_control_directive.js:8:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/abstract_control_directive.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/abstract_control_directive.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/abstract_control_directive.js:9:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/abstract_control_directive.js:17:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/abstract_control_directive.js:17:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:8:61: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:9:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/checkbox_value_accessor.js:15:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_container.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_container.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_container.js:8:42: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_container.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_container.js:16:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:8:61: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:9:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:10:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:17:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/default_value_accessor.js:17:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_value_accessor.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_value_accessor.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_value_accessor.js:8:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_value_accessor.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/control_value_accessor.js:15:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:8:79: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:9:49: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:10:52: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:11:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:12:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:13:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:14:112: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:20:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_name.js:20:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:8:79: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:9:52: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:10:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:11:72: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:17:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_group.js:17:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:8:33: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:9:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:10:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control_status.js:11:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control.js:8:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control.js:9:42: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control.js:18:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_control.js:18:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:8:63: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:9:49: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:10:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:11:52: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:12:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:13:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:14:113: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:20:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_control.js:20:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:8:63: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:9:49: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:10:47: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:11:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:12:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:13:64: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:14:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:15:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:15:92: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:16:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:22:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form_model.js:22:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:8:63: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:9:65: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:10:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:11:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:12:39: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:13:52: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:14:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:15:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:15:92: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:16:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:19:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_form.js:19:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:8:63: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:9:49: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:10:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:11:52: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:12:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:13:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:14:113: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:20:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/ng_model.js:20:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/normalize_validator.js:8:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/normalize_validator.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/normalize_validator.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/normalize_validator.js:16:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:8:61: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:9:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:10:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/number_value_accessor.js:16:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:8:90: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:9:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:10:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:11:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:12:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:18:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:18:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:55:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:55:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:61:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/radio_control_value_accessor.js:61:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:8:84: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:9:28: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:10:80: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:11:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:27:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:27:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:79:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_control_value_accessor.js:79:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:8:84: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:9:28: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:10:90: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:11:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:32:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:32:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:105:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:105:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:161:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/select_multiple_control_value_accessor.js:161:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:8:47: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:9:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:10:68: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:11:28: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:12:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:13:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:14:61: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:15:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:15:37: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:16:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:16:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:16:43: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:17:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:17:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:17:44: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:18:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:18:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:18:52: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:19:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:19:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:24:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:24:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:43:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:43:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:53:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:53:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:56:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:56:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:60:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:60:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:69:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/shared.js:69:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:8:50: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:9:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:10:43: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:17:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:17:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:33:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:33:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:38:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:38:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:62:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:62:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:67:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:67:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:84:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:84:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:89:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/directives/validators.js:89:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:8:28: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:9:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:10:36: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:11:53: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/form_builder.js:12:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:8:49: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:9:47: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:10:62: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:18:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:18:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:23:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:23:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:24:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:24:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:54:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:54:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:218:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:218:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:273:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:273:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:385:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/model.js:385:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:8:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:9:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:10:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:11:57: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:12:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:23:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:23:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:34:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:34:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:50:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/forms-deprecated/validators.js:50:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/localization.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/localization.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/localization.js:20:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/localization.js:20:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:8:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:8:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:9:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:9:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:10:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:11:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location.js:12:15: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:8:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:9:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:10:26: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:11:49: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:12:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/hash_location_strategy.js:13:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location_strategy.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location_strategy.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location_strategy.js:8:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location_strategy.js:27:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location_strategy.js:27:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location_strategy.js:59:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location_strategy.js:59:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:8:42: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:9:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:10:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/location.js:11:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:8:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:9:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:10:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:11:26: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:12:49: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:13:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/path_location_strategy.js:14:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/platform_location.js:34:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/location/platform_location.js:34:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:13:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:14:30: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:15:26: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:16:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:16:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:17:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:17:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:17:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:18:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:18:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:18:26: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:19:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:19:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:19:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:20:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:20:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:20:56: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:21:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:21:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:21:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:22:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:22:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:22:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:23:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:23:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes.js:23:31: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:8:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:9:26: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:10:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:11:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:12:26: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:13:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:14:56: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:15:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:15:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:16:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:16:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:16:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:17:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:17:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:17:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:27:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/common_pipes.js:27:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:8:55: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:9:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:10:47: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:11:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:29:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/async_pipe.js:29:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:8:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:9:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:10:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:11:71: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:12:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/date_pipe.js:15:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:8:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:9:53: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:10:51: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:11:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_plural_pipe.js:13:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:8:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:9:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:10:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/i18n_select_pipe.js:11:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/invalid_pipe_argument_exception.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/invalid_pipe_argument_exception.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/invalid_pipe_argument_exception.js:8:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/invalid_pipe_argument_exception.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/invalid_pipe_argument_exception.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/invalid_pipe_argument_exception.js:9:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/invalid_pipe_argument_exception.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/invalid_pipe_argument_exception.js:10:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/json_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/json_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/json_pipe.js:8:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/json_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/json_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/json_pipe.js:9:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/json_pipe.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/json_pipe.js:10:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:8:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:9:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:10:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/lowercase_pipe.js:11:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:8:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:9:87: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:10:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/replace_pipe.js:11:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:8:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:9:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:10:52: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:11:76: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:12:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:48:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:48:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:57:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:57:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:66:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/number_pipe.js:66:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:8:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:9:29: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:10:59: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:11:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/slice_pipe.js:12:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing.js:8:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing.js:8:29: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:8:22: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:9:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:10:46: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/src/pipes/uppercase_pipe.js:11:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing/location_mock.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing/location_mock.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing/location_mock.js:8:42: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing/location_mock.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing/location_mock.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing/location_mock.js:9:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing/location_mock.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/testing/location_mock.js:10:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:8:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:8:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:9:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:9:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:10:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:11:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:12:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/common@2.0.0-rc.4/esm/index.js:13:32: Semi-colon expected

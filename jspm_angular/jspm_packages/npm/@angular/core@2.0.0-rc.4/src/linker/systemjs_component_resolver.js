@@ -1,0 +1,46 @@
+/* */ 
+"use strict";
+var lang_1 = require('../facade/lang');
+var _SEPARATOR = '#';
+var SystemJsComponentResolver = (function() {
+  function SystemJsComponentResolver(_resolver) {
+    this._resolver = _resolver;
+  }
+  SystemJsComponentResolver.prototype.resolveComponent = function(componentType) {
+    var _this = this;
+    if (lang_1.isString(componentType)) {
+      var _a = componentType.split(_SEPARATOR),
+          module = _a[0],
+          component_1 = _a[1];
+      if (component_1 === void(0)) {
+        component_1 = 'default';
+      }
+      return lang_1.global.System.import(module).then(function(module) {
+        return _this._resolver.resolveComponent(module[component_1]);
+      });
+    }
+    return this._resolver.resolveComponent(componentType);
+  };
+  SystemJsComponentResolver.prototype.clearCache = function() {};
+  return SystemJsComponentResolver;
+}());
+exports.SystemJsComponentResolver = SystemJsComponentResolver;
+var FACTORY_MODULE_SUFFIX = '.ngfactory';
+var FACTORY_CLASS_SUFFIX = 'NgFactory';
+var SystemJsCmpFactoryResolver = (function() {
+  function SystemJsCmpFactoryResolver() {}
+  SystemJsCmpFactoryResolver.prototype.resolveComponent = function(componentType) {
+    if (lang_1.isString(componentType)) {
+      var _a = componentType.split(_SEPARATOR),
+          module = _a[0],
+          factory_1 = _a[1];
+      return lang_1.global.System.import(module + FACTORY_MODULE_SUFFIX).then(function(module) {
+        return module[factory_1 + FACTORY_CLASS_SUFFIX];
+      });
+    }
+    return Promise.resolve(null);
+  };
+  SystemJsCmpFactoryResolver.prototype.clearCache = function() {};
+  return SystemJsCmpFactoryResolver;
+}());
+exports.SystemJsCmpFactoryResolver = SystemJsCmpFactoryResolver;

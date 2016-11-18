@@ -1,0 +1,316 @@
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/core_private.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/core_private.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/core_private.js:8:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/core_private.js:8:30: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/core_private.js:8:39: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/core_private.js:9:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/core_private.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/core_private.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/core_private.js:10:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/platform_browser_private.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/platform_browser_private.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/platform_browser_private.js:8:39: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/platform_browser_private.js:8:42: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/platform_browser_private.js:8:51: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/platform_browser_private.js:9:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/platform_browser_private.js:9:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/private_export_testing.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/private_export_testing.js:8:13: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/private_export_testing.js:8:21: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/private_export_testing.js:8:26: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/private_export_testing.js:9:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/private_export_testing.js:9:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:8:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:9:35: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:10:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:11:30: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:12:28: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:13:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:14:50: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:15:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:25:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:25:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:97:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/async.js:97:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/base_wrapped_exception.js:13:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/base_wrapped_exception.js:13:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:8:84: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:9:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:81:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:81:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:104:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:104:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:169:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:169:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:291:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:291:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:298:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:298:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:312:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:312:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:345:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/collection.js:345:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:8:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:9:36: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:10:36: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:43:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exception_handler.js:43:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:8:38: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:9:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:10:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:10:34: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:26:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:26:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:43:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:43:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:46:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/exceptions.js:46:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:21:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:21:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:24:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:24:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:28:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:28:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:28:18: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:28:21: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:37:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:37:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:38:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:38:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:44:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:44:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:45:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:45:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:52:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:52:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:55:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:55:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:58:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:58:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:61:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:61:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:64:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:64:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:67:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:67:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:70:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:70:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:73:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:73:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:77:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:77:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:80:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:80:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:83:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:83:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:86:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:86:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:89:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:89:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:90:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:90:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:109:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:109:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:112:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:112:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:115:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:115:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:118:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:118:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:177:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:177:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:184:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:184:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:191:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:191:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:227:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:227:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:228:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:228:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:265:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:265:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:270:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:270:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:275:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:275:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:280:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:280:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:283:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:283:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:286:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:286:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:289:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:289:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:292:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:292:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:295:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:295:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:299:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:299:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:306:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:306:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:316:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:316:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:334:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:334:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:353:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:353:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:363:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:363:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:366:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:366:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:369:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:369:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:372:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/lang.js:372:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/promise.js:8:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/promise.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/promise.js:16:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/facade/promise.js:16:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:8:21: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:9:31: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:10:24: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:11:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:19:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_cache.js:19:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:8:21: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:9:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:10:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:11:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/src/xhr/xhr_impl.js:11:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:8:49: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:9:89: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:10:61: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:11:85: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:12:48: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:13:42: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:14:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:14:15: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:20:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:20:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:26:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing.js:26:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:8:39: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:9:36: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:10:26: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:11:24: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:12:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/testing/dom_test_component_renderer.js:12:8: Semi-colon expected
+
+MultipleErrors: /Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:8:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:8:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:8:49: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:9:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:9:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:9:57: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:10:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:10:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:10:111: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:11:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:11:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:11:175: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:12:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:12:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:12:51: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:13:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:13:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:13:32: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:14:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:14:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:14:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:15:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:15:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:15:27: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:16:1: Unexpected reserved word import
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:16:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:16:25: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:20:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:20:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:35:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:35:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:107:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:107:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:119:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:119:8: Semi-colon expected
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:148:1: Unexpected reserved word export
+/Users/xiaokehuang/.jspm/packages/npm/@angular/platform-browser-dynamic@2.0.0-rc.4/esm/index.js:148:8: Semi-colon expected

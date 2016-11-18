@@ -1,0 +1,23 @@
+{
+  "jspm": {
+    "devDependencies": {
+      "babel": "npm:babel-core@^5.8.24",
+      "babel-runtime": "npm:babel-runtime@^5.8.24",
+      "clean-css": "npm:clean-css@^3.4.3",
+      "core-js": "npm:core-js@^1.1.4",
+      "css": "frankwallis/plugin-css@master",
+      "http": "jspm/nodelibs-http@^0.2.0-alpha",
+      "https": "jspm/nodelibs-https@^0.2.0-alpha",
+      "module": "jspm/nodelibs-module@^0.2.0-alpha",
+      "net": "jspm/nodelibs-net@^0.2.0-alpha",
+      "os": "jspm/nodelibs-os@^0.2.0-alpha",
+      "plugin-babel": "npm:systemjs-plugin-babel@^0.0.12",
+      "systemjs-hot-reloader": "capaj/systemjs-hot-reloader@^0.5.3",
+      "text": "systemjs/plugin-text@^0.0.2",
+      "ts": "frankwallis/plugin-typescript@master",
+      "tty": "jspm/nodelibs-tty@^0.2.0-alpha",
+      "url": "jspm/nodelibs-url@^0.2.0-alpha",
+      "typescript": "npm:typescript@^1.6.2"
+    }
+  }
+}

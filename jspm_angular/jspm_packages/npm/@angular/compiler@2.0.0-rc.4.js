@@ -1,0 +1,1 @@
+module.exports = require("npm:@angular/compiler@2.0.0-rc.4/index.js");
