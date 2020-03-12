@@ -1,15 +1,15 @@
-import { Component } from "@angular/core";
+import { Component } from '@angular/core';
 
 @Component({
-  selector: "app-root",
-  templateUrl: "./app.component.html",
-  styleUrls: ["./app.component.scss"]
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
   title = {
-    text: "angular-universal-v9",
-    link: "https://otter.ai",
-    color: "#f00"
+    text: 'angular-universal-v9',
+    link: 'https://otter.ai',
+    color: '#f00'
   };
 
   onClick(event: MouseEvent) {
